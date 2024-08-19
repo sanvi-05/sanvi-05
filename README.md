@@ -6,7 +6,7 @@ Final-year Information Science student
 
 As an aspiring software engineer, I've always been fascinated by the power of code to bring ideas to life. Throughout my academic journey, I've immersed myself in the world of software engineering, exploring various domains such as machine learning, computer vision, web development, and open-source contributions. My ultimate goal is to leverage technology to solve real-world problems and contribute to the ever-evolving tech landscape.
 
-* 🌍  I'm based in India
+[![An image of @sanvi05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanvi05)](https://holopin.io/@sanvi05)
 
 ### Skills
 
@@ -29,3 +29,8 @@ As an aspiring software engineer, I've always been fascinated by the power of co
 <a href="http://www.github.com/sanvi-05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvi-05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sanvi-05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvi-05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>GitHub Trophies</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanvi-05" alt="sanvi-05" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanvi-05&label=Profile%20views&color=0e75b6&style=flat" alt="sanvi-05" /> </p>
+
